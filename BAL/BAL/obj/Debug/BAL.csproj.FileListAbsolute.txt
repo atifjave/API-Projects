@@ -1,0 +1,14 @@
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\BAL.dll
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\BAL.pdb
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\DAL.dll
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\Models.dll
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\EntityFramework.dll
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\DAL.pdb
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\DAL.dll.config
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\Models.pdb
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\bin\Debug\EntityFramework.xml
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\obj\Debug\BAL.dll
+C:\Users\atifa\Documents\API-Projects\BAL\BAL\obj\Debug\BAL.pdb

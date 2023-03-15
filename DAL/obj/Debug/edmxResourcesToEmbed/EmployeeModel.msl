@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AngularModelStoreContainer" CdmEntityContainer="AngularEntities">
+    <EntitySetMapping Name="Empolyees">
+      <EntityTypeMapping TypeName="AngularModel.Empolyee">
+        <MappingFragment StoreEntitySet="Empolyees">
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee_ID" />
+          <ScalarProperty Name="Empolyee_Name" ColumnName="Empolyee_Name" />
+          <ScalarProperty Name="Employee_Phone" ColumnName="Employee_Phone" />
+          <ScalarProperty Name="Employee_Address" ColumnName="Employee_Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
